@@ -20,5 +20,5 @@ jobs:
       - name: Install pytest
         run: pip install pytest
 
-      - name: Run tests
-        run: Devops04.py
+      - name: Run Python Program
+        run: python Devops04.py
